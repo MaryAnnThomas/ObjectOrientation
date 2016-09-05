@@ -18,3 +18,11 @@ public class Encapsulation {
     }
     
 }
+
+
+
+OUTPUT
+
+run:
+34
+BUILD SUCCESSFUL (total time: 1 second)
